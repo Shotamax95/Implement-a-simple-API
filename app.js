@@ -12,6 +12,7 @@ function getRequestObject() {
        return false;
     }
     return request;
+    
 }
 
 // result
